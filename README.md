@@ -11,7 +11,8 @@ It features a modern UI with playlists, album covers, and a fixed preview bar.
 - Footer with company, community, and social links
 
 ## Screenshots
-![Spotify Clone Screenshot](img/spotify_ss.jpeg)
+<img src="img/spotify_ss.jpeg" alt="Spotify Clone Screenshot" width="500">
+
 *This is the actual screenshot from the project.*
 
 ## Technologies Used
