@@ -11,15 +11,11 @@ It features a modern UI with playlists, album covers, and a fixed preview bar.
 - Footer with company, community, and social links
 
 ## Screenshots
-![Spotify Clone Screenshot](img/screenshot.png)
-*Replace `screenshot.png` with an actual screenshot from your project.*
+![Spotify Clone Screenshot](img/spotify_ss.jpeg)
+*This is the actual screenshot from the project.*
 
 ## Technologies Used
 - HTML
 - CSS
 - Font Awesome icons
 
-## Installation / How to Run
-1. Download or clone the repository:
-   ```bash
-   git clone https://github.com/Monisha-krish/Music-Player.git
